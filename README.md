@@ -1,4 +1,4 @@
-# awesome-ops
+# ops
 
 https://docs.apigee.com/api-platform/get-started/get-started
 
